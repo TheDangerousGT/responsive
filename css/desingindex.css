@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .navbar{
     margin: 10px;
     text-align: center;
@@ -6,6 +11,7 @@
 .logo{
     width: 200px;
     margin: 10px;
+    margin-left: -730px;
     position: absolute;
 }
 .parrafo{
@@ -30,7 +36,7 @@
 }
 .footer{
     margin-top: 750px;
-    margin-left: 200px;
+    margin-left: 80px;
 }
 .btn{
     width: 500px;
