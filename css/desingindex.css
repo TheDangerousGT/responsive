@@ -15,7 +15,7 @@
     position: absolute;
 }
 .parrafo{
-    margin-left: 250px;
+    margin-left: 200px;
     position: absolute;
     margin-top: 100px;
     margin-right: 50px;
@@ -97,7 +97,7 @@ margin-left: -15px;
 .topnav {
     overflow: hidden;
     background-color: #333;
-    width: auto;
+    width: 1800px;
   }
   
   .topnav a {
